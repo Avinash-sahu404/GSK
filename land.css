@@ -197,7 +197,7 @@ body {
   height: 540px;
   width: 90%;
   max-width: 960px;
-  background: url("/saad-khan-425b2PhNuHA-unsplash.jpg") fixed center;
+  background: url("saad-khan-425b2PhNuHA-unsplash.jpg") fixed center;
   background-size: 960px 1080px;
   box-shadow: 8px 9px 25px 2px rgba(0,0,0,0.5);
   overflow: hidden;
@@ -217,7 +217,7 @@ body {
 }
 .third-section {
   min-height: 500px;
-  background: url("/marten-bjork-n_IKQDCyrG0-unsplash.jpg") fixed center;
+  background: url("marten-bjork-n_IKQDCyrG0-unsplash.jpg") fixed center;
   background-size: cover;
 }
 .third-section::before {
